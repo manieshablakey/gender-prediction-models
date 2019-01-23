@@ -43,4 +43,4 @@ Student Alcohol Data Key:
 30. absences - number of school absences (numeric: from 0 to 93)
 31. G1 - first period grade (numeric: from 0 to 20)
 32. G2 - second period grade (numeric: from 0 to 20)
-33. G3 - final grade (numeric: from 0 to 20, output target)
+33. G3 - final grade (numeric: from 0 to 20)
