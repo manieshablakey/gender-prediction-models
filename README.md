@@ -1,4 +1,4 @@
-This notebook uses the Student Alcohol Consumption dataset from Kaggle. It contains demographic, social and academic information relating to students in a maths course at two secondary schools in Portugal. Data is provided for a total of 33 features related to each student, including gender. The objective of this notebook is to build and evaluate two machine learning models to predict the gender of a student.
+This notebook uses the Student Alcohol Consumption dataset from Kaggle (https://www.kaggle.com/uciml/student-alcohol-consumption). It contains demographic, social and academic information relating to students in a maths course at two secondary schools in Portugal. Data is provided for a total of 33 features related to each student, including gender. The objective of this notebook is to build and evaluate two machine learning models to predict the gender of a student.
 
 Preliminary analyses of all the study features is initially conducted and presented in graphical form.
 
